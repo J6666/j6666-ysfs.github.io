@@ -1,0 +1,27 @@
+﻿
+
+.info {
+    line-height: 64px;
+}
+
+    .info .m-title {
+        font-size: 44px;
+        font-weight: bold;
+        border-left: solid 10px #fd6000;
+        padding-left: 15px;
+        color: #666;
+        height: 36px;
+        line-height: 64px;
+        margin-bottom: 40px;
+        height: 64px;
+    }
+    .info .m-detail {
+        font-size: 28px;
+        text-indent: 2em;
+    }
+    .info .m-title {
+    }
+    .info .m-title {
+    }
+
+
