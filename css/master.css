@@ -15,13 +15,18 @@
         margin-bottom: 40px;
         height: 64px;
     }
+
     .info .m-detail {
-        font-size: 28px;
+        font-size: 32px;
         text-indent: 2em;
     }
-    .info .m-title {
-    }
+
+        .info pre {
+            text-wrap: wrap;
+        }
+
     .info .m-title {
     }
 
-
+    .info .m-title {
+    }
